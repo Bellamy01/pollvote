@@ -1,0 +1,5 @@
+//Admin info
+
+username: bellamy
+password: mydb#321
+
